@@ -1,0 +1,4 @@
+Manual de usuario:
+Para poder ejecutar a este explorador de Marte, se requiere el GUI Framework "Shoes" <http://shoesrb.com/>	. Después de su correcta instalación, se puede tanto ejecutar el comando "shoes marsExpedition.rb" En la carpeta en la que se encuentra el documento (Solo para usuarios Linux). O bien, puede ejecutar la aplicación "Shoes" y seleccionar "Open an App"; posteriormente se debe de seleccionar el archivo "marsExpedition.rb". Finalmente, el programa aparecerá en Pantalla. Cabe mencionar que, dado a la naturaleza de Shoes, este programa solo puede ser ejecutado en windows 7, osX y Linux; en cualquier otro sistema operativo mandará error.
+
+Para iniciar la simulación del explorador se seleccióna "Start". Para detener la simulación se presiona el botón "Stop". El checkbox "Mode " sirve para marcar si el modo de simulación es el modo individual o modo con comportamiento colaborativo.
